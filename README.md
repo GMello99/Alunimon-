@@ -21,17 +21,17 @@ Frame 0: Frame de abertura, que tem o Insper, o mercado e a enfermaria
 
 Frame 1: Mercado:
          
-         B para sair
+         B para sair - Volta ao frame 0
+         
 Frame 2: Aparentemente não tem nada
-         Direita:
-         Esquerda:
-         Cima:
-         Baixo:
+
 Frame 3: 
+
          Direita:
          Esquerda:
          Cima:
          Baixo:
+
 Frame 4:
          Direita:
          Esquerda:
@@ -42,31 +42,31 @@ Frame 5:
          Esquerda:
          Cima:
          Baixo:
-Frame 6:
-         Direita:
-         Esquerda:
-         Cima:
-         Baixo:
-Frame 7:
-         Direita:
-         Esquerda:
-         Cima:
-         Baixo:
+         
+Frame 6: Menu inicial:
+
+         Tecla pra cima - Tela de história (Frame 7)
+         
+Frame 7: História:
+         
+         Tecla pra cima - Tela de comandos 
 Frame 8:
          Direita:
          Esquerda:
          Cima:
          Baixo:
-Frame 9:
-         Direita:
-         Esquerda:
-         Cima:
-         Baixo:
+         
+Frame 9: Mercado:
+
+         V para ir ao próximo frame - Einstein Trollador (Frame 18)
+         
 Frame 10:
+
          Direita:
          Esquerda:
          Cima:
          Baixo:
+         
 Frame 11:
 Frame 12:
 Frame 13:
@@ -74,7 +74,10 @@ Frame 14:
 Frame 15:
 Frame 16:
 Frame 17:
-Frame 18:
+Frame 18: Einstein Trollador:
+         
+         S para voltar à tela de entrada (Frame 0)
+
 Frame 19: Enfermaria
 Frame 20:
 Frame 21:
